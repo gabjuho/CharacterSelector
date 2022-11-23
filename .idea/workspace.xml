@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4930c94-9bfb-4db7-a5db-786cee5558e9" name="Changes" comment="setting: set maven setting">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabjuho/CharacterSelector/Commands/MainCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabjuho/CharacterSelector/Events/MainEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabjuho/CharacterSelector/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f4930c94-9bfb-4db7-a5db-786cee5558e9" name="Changes" comment="setting: Set plugin base setting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +36,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "C:/Users/김주호/OneDrive/바탕 화면/CharacterSelector 테스트/plugins",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669183108330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setting: Set plugin base setting">
+      <created>1669186385674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669186385674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setting: set maven setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting: set maven setting" />
+    <MESSAGE value="setting: Set plugin base setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting: Set plugin base setting" />
   </component>
 </project>

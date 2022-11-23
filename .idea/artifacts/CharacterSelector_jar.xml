@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CharacterSelector:jar">
+    <output-path>$USER_HOME$/OneDrive/바탕 화면/CharacterSelector 테스트/plugins</output-path>
+    <root id="archive" name="CharacterSelector.jar">
+      <element id="module-output" name="CharacterSelector" />
+    </root>
+  </artifact>
+</component>
