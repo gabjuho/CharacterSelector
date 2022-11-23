@@ -1,0 +1,5 @@
+name: CharacterSelector
+version: 1.19.2
+author: gabjuho
+main: com.gabjuho.CharacterSelector.Main
+api-version: 1.19
